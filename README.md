@@ -1,4 +1,4 @@
-# Feature flags - Increase the Frequency, Stability and Confidence in Your Releases
+# Feature Flags - Increase the Frequency, Stability and Confidence in Your Releases
 
 This is the code showed during my presentation about Feature Flags.
 
